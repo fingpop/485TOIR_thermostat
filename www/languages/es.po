@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Multiling <dan.videki@multiling.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-24 22:36+0000\n"
+"Last-Translator: Multiling <dan.videki@multiling.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/control4/software-interfaces/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No"
+msgstr "No"
+
+msgid "Off"
+msgstr "Apagado"
+
+msgid "On"
+msgstr "Encendido"
+
+msgid "Automatic"
+msgstr "Automático"
+
+msgid "Heat"
+msgstr "Calor"
+
+msgid "Cool"
+msgstr "Enfriar"
+
+msgid "Auto"
+msgstr "Automático"
+
+msgid "Fan"
+msgstr "Ventilador"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Fresco"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 horas"
+
+msgid "Until Next"
+msgstr "Hasta el próximo"
+
+msgid "Permanent"
+msgstr "Permanente"
+
+msgid "Until"
+msgstr "Hasta"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Lo mejor"
+
+msgid "High"
+msgstr "Superior"
+
+msgid "Medium"
+msgstr "Medio"
+
+msgid "Low"
+msgstr "Bajo"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "30 degrees"
+msgstr "30 grados"
+
+msgid "45 degrees"
+msgstr "45 grados"
+
+msgid "60 degrees"
+msgstr "60 grados"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Eco"
+
+msgid "Hot"
+msgstr "Caliente"
+
+msgid "Auto Mode"
+msgstr "Modo Auto"
+
+msgid "Bypass"
+msgstr "Excluir"
+
+msgid "Heat Exchange"
+msgstr "Intercambio de calor"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Low Fan"
+msgstr "Ventilador bajo"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Ventilador bajo con aire fresco"
+
+msgid "High Fan"
+msgstr "Ventilador alto"
+
+msgid "High fan with Fresh Up"
+msgstr "Ventilador alto con aire fresco"
+
+msgid "Super High Fan"
+msgstr "Ventilador súper alto"
+
+msgid "Top Fan"
+msgstr "Ventilador principal"
+
+msgid "Auto Fan"
+msgstr "Ventilador automático"
+
+msgid "Fan Mode"
+msgstr "Modo ventilador"
+
+msgid "Swing"
+msgstr "Swing"
+
+msgid "Water"
+msgstr "Agua"
+
+msgid "Hot Water Mode"
+msgstr "Modo Agua caliente"
+
+msgid "VAM HRV Mode"
+msgstr "Modo HRV VAM"
+
+msgid "Vacation Preset"
+msgstr "Valor predeterminado de vacaciones"
+
+msgid "Setpoint"
+msgstr "Valor predeterminado"
+
+msgid "Auxillary Heat"
+msgstr "Calor auxiliar"
+
+msgid "Aux Heat"
+msgstr "Calor aux."
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Reset Filter"
+msgstr "Restablecer filtro"

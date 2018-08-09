@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Erdem Zengin <erdem.zengin@control4.com.tr>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-20 14:36+0000\n"
+"Last-Translator: Erdem Zengin <erdem.zengin@control4.com.tr>\n"
+"Language-Team: Turkish (http://www.transifex.com/control4/software-interfaces/language/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "Off"
+msgstr "Pasif"
+
+msgid "On"
+msgstr "Çalışıyor"
+
+msgid "Automatic"
+msgstr "Otomati"
+
+msgid "Heat"
+msgstr "Isıtma"
+
+msgid "Cool"
+msgstr "Soğutma"
+
+msgid "Auto"
+msgstr "Otomatik"
+
+msgid "Fan"
+msgstr "Fan"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Taze"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 Saat"
+
+msgid "Until Next"
+msgstr "Sonrakine Kadar"
+
+msgid "Permanent"
+msgstr "Kalıcı"
+
+msgid "Until"
+msgstr "Kadar"
+
+# These are fan speeds
+msgid "Top"
+msgstr "En İyi"
+
+msgid "High"
+msgstr "Yüksek"
+
+msgid "Medium"
+msgstr "Orta"
+
+msgid "Low"
+msgstr "Düşük"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Yatay"
+
+msgid "Vertical"
+msgstr "Dikey"
+
+msgid "30 degrees"
+msgstr "30 derece"
+
+msgid "45 degrees"
+msgstr "45 derece"
+
+msgid "60 degrees"
+msgstr "60 derece"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Eko"
+
+msgid "Hot"
+msgstr "Sıcak"
+
+msgid "Auto Mode"
+msgstr "Oto mod"
+
+msgid "Bypass"
+msgstr "Bypass"
+
+msgid "Heat Exchange"
+msgstr "Sıcak Değişimi"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Low Fan"
+msgstr "Düşük Fan"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Tazelemeli Düşük Fan"
+
+msgid "High Fan"
+msgstr "Yüksek Fan"
+
+msgid "High fan with Fresh Up"
+msgstr "Tazelemeli Yüksek Fan"
+
+msgid "Super High Fan"
+msgstr "Süper Yüksek Fan"
+
+msgid "Top Fan"
+msgstr "En Yüksek Fan"
+
+msgid "Auto Fan"
+msgstr "Oto Fan"
+
+msgid "Fan Mode"
+msgstr "Fan Modu"
+
+msgid "Swing"
+msgstr "Salınma"
+
+msgid "Water"
+msgstr "Su"
+
+msgid "Hot Water Mode"
+msgstr "Sıcak Su Modu"
+
+msgid "VAM HRV Mode"
+msgstr "VAM HRV Mod"
+
+msgid "Vacation Preset"
+msgstr "Tatil Önayarı"
+
+msgid "Setpoint"
+msgstr "Hedef Değer"
+
+msgid "Auxillary Heat"
+msgstr "Harici Isıtma"
+
+msgid "Aux Heat"
+msgstr "Harici Isıtma"
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "Reset Filter"
+msgstr "Filtreyi Sıfırla"

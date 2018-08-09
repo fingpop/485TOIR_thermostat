@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Ganda Osay <support4@digital-screen.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-25 08:34+0000\n"
+"Last-Translator: Ganda Osay <support4@digital-screen.com>\n"
+"Language-Team: Indonesian (http://www.transifex.com/control4/software-interfaces/language/id/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "ya"
+
+msgid "No"
+msgstr "Tidak"
+
+msgid "Off"
+msgstr "Matikan"
+
+msgid "On"
+msgstr "Hidup"
+
+msgid "Automatic"
+msgstr "Otomatis"
+
+msgid "Heat"
+msgstr "Panas"
+
+msgid "Cool"
+msgstr "Dingin"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Fan"
+msgstr "Kipas"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Segar"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 jam "
+
+msgid "Until Next"
+msgstr "sampai event berikutnya"
+
+msgid "Permanent"
+msgstr "Permanen"
+
+msgid "Until"
+msgstr "Sampai"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Top"
+
+msgid "High"
+msgstr "Tinggi"
+
+msgid "Medium"
+msgstr "Sedang"
+
+msgid "Low"
+msgstr "Rendah"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Horisontal"
+
+msgid "Vertical"
+msgstr "Vertikal"
+
+msgid "30 degrees"
+msgstr "30 derajat"
+
+msgid "45 degrees"
+msgstr "45 derajat"
+
+msgid "60 degrees"
+msgstr "60 derajat"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Eco"
+
+msgid "Hot"
+msgstr "Panas"
+
+msgid "Auto Mode"
+msgstr "Auto Mode"
+
+msgid "Bypass"
+msgstr "Langsung"
+
+msgid "Heat Exchange"
+msgstr "Ubah panas"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Low Fan"
+msgstr "Kipas pelan"
+
+msgid "Low Fan with Fresh Up"
+msgstr " Kipas pelan dengan segar"
+
+msgid "High Fan"
+msgstr "Kipas kencang "
+
+msgid "High fan with Fresh Up"
+msgstr " Kipas kencang dengan segar"
+
+msgid "Super High Fan"
+msgstr "Kipas super kencang "
+
+msgid "Top Fan"
+msgstr "Kipas Atas"
+
+msgid "Auto Fan"
+msgstr "Auto Fan"
+
+msgid "Fan Mode"
+msgstr "Mode Kipas"
+
+msgid "Swing"
+msgstr "Mengayun"
+
+msgid "Water"
+msgstr "Air"
+
+msgid "Hot Water Mode"
+msgstr "Mode air panas"
+
+msgid "VAM HRV Mode"
+msgstr "Mode VAM HRV "
+
+msgid "Vacation Preset"
+msgstr "Tetapkan Liburan"
+
+msgid "Setpoint"
+msgstr "Mengatur"
+
+msgid "Auxillary Heat"
+msgstr "Auxillary Panas"
+
+msgid "Aux Heat"
+msgstr "Aux Panas"
+
+msgid "Error"
+msgstr "Gagal"
+
+msgid "Reset Filter"
+msgstr "Atur ulang Filter"

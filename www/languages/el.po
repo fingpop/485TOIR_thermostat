@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Ioannis  Papavramidis <papavramidis@aace.gr>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-24 10:21+0000\n"
+"Last-Translator: Ioannis  Papavramidis <papavramidis@aace.gr>\n"
+"Language-Team: Greek (http://www.transifex.com/control4/software-interfaces/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Ναί"
+
+msgid "No"
+msgstr "Όχι"
+
+msgid "Off"
+msgstr "Απενεργοποίηση"
+
+msgid "On"
+msgstr "Ενεργοποίηση"
+
+msgid "Automatic"
+msgstr "Αυτόματο"
+
+msgid "Heat"
+msgstr "Θέρμανση"
+
+msgid "Cool"
+msgstr "Ψύξη"
+
+msgid "Auto"
+msgstr "Αυτόματο"
+
+msgid "Fan"
+msgstr "Ανεμιστήρας"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Καθαρό"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 Ώρες"
+
+msgid "Until Next"
+msgstr "Μέχρι το Επόμενο"
+
+msgid "Permanent"
+msgstr "Μόνιμα"
+
+msgid "Until"
+msgstr "Μέχρι"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Κορυφαία"
+
+msgid "High"
+msgstr "Υψηλή"
+
+msgid "Medium"
+msgstr "Μεσαίο"
+
+msgid "Low"
+msgstr "Χαμηλό"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Οριζόντιο"
+
+msgid "Vertical"
+msgstr "Κάθετο"
+
+msgid "30 degrees"
+msgstr "30 μοίρες"
+
+msgid "45 degrees"
+msgstr "45 μοίρες"
+
+msgid "60 degrees"
+msgstr "60 μοίρες"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Οικονομικό"
+
+msgid "Hot"
+msgstr "Ζεστό"
+
+msgid "Auto Mode"
+msgstr "Αυτόματη Λειτουργία"
+
+msgid "Bypass"
+msgstr "Παράκαμψη"
+
+msgid "Heat Exchange"
+msgstr "Ανταλλαγή Θερμότητας"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Low Fan"
+msgstr "Ανεμιστήρας Χαμηλή Λειτουργία"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Ανεμιστήρας Χαμηλή Λειτουργία και Ανανέωση Αέρα"
+
+msgid "High Fan"
+msgstr "Ανεμιστήρας Υψηλή Λειτουργία"
+
+msgid "High fan with Fresh Up"
+msgstr "Ανεμιστήρας Υψηλή Λειτουργία με Ανανέωση Αέρα"
+
+msgid "Super High Fan"
+msgstr "Πολύ Υψηλή Λειτουργία Ανεμιστήρα"
+
+msgid "Top Fan"
+msgstr "Ανεμιστήρας Κορυφής"
+
+msgid "Auto Fan"
+msgstr "Αυτόματος Ανεμιστήρας"
+
+msgid "Fan Mode"
+msgstr "Λειτουργία Ανεμιστήρα"
+
+msgid "Swing"
+msgstr "Εναλλαγή"
+
+msgid "Water"
+msgstr "Νερό"
+
+msgid "Hot Water Mode"
+msgstr "Λειτουργία Ζεστού Νερού"
+
+msgid "VAM HRV Mode"
+msgstr "Λειτουργία VAM HRV"
+
+msgid "Vacation Preset"
+msgstr "Προεπιλογή Προγράμματος Διακοπών"
+
+msgid "Setpoint"
+msgstr "Καθορισμένο Σημείο"
+
+msgid "Auxillary Heat"
+msgstr "Βοηθητική Θέρμανση"
+
+msgid "Aux Heat"
+msgstr "Βοηθητική Θέρμανση"
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+msgid "Reset Filter"
+msgstr "Επαναφορά Φίλτρου"

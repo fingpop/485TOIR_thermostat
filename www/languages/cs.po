@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Lukáš Polívka <lukas.polivka@yatun.cz>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-09-04 08:06+0000\n"
+"Last-Translator: Lukáš Polívka <lukas.polivka@yatun.cz>\n"
+"Language-Team: Czech (http://www.transifex.com/control4/software-interfaces/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "Off"
+msgstr "Vypnuto"
+
+msgid "On"
+msgstr "Zap."
+
+msgid "Automatic"
+msgstr "Automaticky"
+
+msgid "Heat"
+msgstr "Topit"
+
+msgid "Cool"
+msgstr "Chladit"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Fan"
+msgstr "Ventilátor"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Čerstvý vzduch"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "Rekuperace"
+
+msgid "2 Hours"
+msgstr "2 hodiny"
+
+msgid "Until Next"
+msgstr "Do příští "
+
+msgid "Permanent"
+msgstr "Trvale"
+
+msgid "Until"
+msgstr "do"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Nejlepší"
+
+msgid "High"
+msgstr "Vysoký"
+
+msgid "Medium"
+msgstr "Střední"
+
+msgid "Low"
+msgstr "Nízký"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Vodorovné"
+
+msgid "Vertical"
+msgstr "Svislé"
+
+msgid "30 degrees"
+msgstr "30°"
+
+msgid "45 degrees"
+msgstr "45°"
+
+msgid "60 degrees"
+msgstr "60°"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Eko"
+
+msgid "Hot"
+msgstr "Horký"
+
+msgid "Auto Mode"
+msgstr "Režim Auto"
+
+msgid "Bypass"
+msgstr "Vynechat"
+
+msgid "Heat Exchange"
+msgstr "Rekuperace"
+
+msgid "Normal"
+msgstr "Normální"
+
+msgid "Low Fan"
+msgstr "Nízký výkon ventilátoru"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Nizký výkon ventilátoru s osvěžením"
+
+msgid "High Fan"
+msgstr "Vysoký výkon ventilátoru"
+
+msgid "High fan with Fresh Up"
+msgstr "Vysoký výkon ventilátoru s osvěžením"
+
+msgid "Super High Fan"
+msgstr "Extra vysoký výkon ventilátoru"
+
+msgid "Top Fan"
+msgstr "Nejvyšší výkon ventilátoru"
+
+msgid "Auto Fan"
+msgstr "Auto výkon ventilátoru"
+
+msgid "Fan Mode"
+msgstr "Režim větráku"
+
+msgid "Swing"
+msgstr "Naklápění"
+
+msgid "Water"
+msgstr "Voda"
+
+msgid "Hot Water Mode"
+msgstr "Režim Horká voda"
+
+msgid "VAM HRV Mode"
+msgstr "Režim VAM HRV"
+
+msgid "Vacation Preset"
+msgstr "Předvolby dovolené"
+
+msgid "Setpoint"
+msgstr "Žádaná teplota"
+
+msgid "Auxillary Heat"
+msgstr "Přídavné topení"
+
+msgid "Aux Heat"
+msgstr "Přídavné topení"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Reset Filter"
+msgstr "Resetovat filtr"

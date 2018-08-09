@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Konrad Lango <konradlango@poczta.fm>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-25 21:01+0000\n"
+"Last-Translator: Konrad Lango <konradlango@poczta.fm>\n"
+"Language-Team: Polish (http://www.transifex.com/control4/software-interfaces/language/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "Off"
+msgstr "Wył."
+
+msgid "On"
+msgstr "Wł."
+
+msgid "Automatic"
+msgstr "Automatycznie"
+
+msgid "Heat"
+msgstr "Ogrzewanie"
+
+msgid "Cool"
+msgstr "Chłodzenie"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Fan"
+msgstr "Nawiew"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Świeży"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 godziny"
+
+msgid "Until Next"
+msgstr "Do Następnego"
+
+msgid "Permanent"
+msgstr "Na stałe"
+
+msgid "Until"
+msgstr "Do"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Popularne"
+
+msgid "High"
+msgstr "Wysokie"
+
+msgid "Medium"
+msgstr "Średnie"
+
+msgid "Low"
+msgstr "Niski"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Poziomo"
+
+msgid "Vertical"
+msgstr "Pionowo"
+
+msgid "30 degrees"
+msgstr "30 stopni"
+
+msgid "45 degrees"
+msgstr "45 stopni"
+
+msgid "60 degrees"
+msgstr "60 stopni"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Eko"
+
+msgid "Hot"
+msgstr "Gorąco"
+
+msgid "Auto Mode"
+msgstr "Tryb Auto"
+
+msgid "Bypass"
+msgstr "Pominięcie"
+
+msgid "Heat Exchange"
+msgstr "Wymiana Ciepła"
+
+msgid "Normal"
+msgstr "Normalny"
+
+msgid "Low Fan"
+msgstr "Słaby Wentylator"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Słaby Wentylator z Odświeżeniem"
+
+msgid "High Fan"
+msgstr "Silny Wentylator"
+
+msgid "High fan with Fresh Up"
+msgstr "Silny Wentylator z Odświeżeniem"
+
+msgid "Super High Fan"
+msgstr "Bardzo Silny Wentylator"
+
+msgid "Top Fan"
+msgstr "Wysoki Wentylator"
+
+msgid "Auto Fan"
+msgstr "Auto Wentylator"
+
+msgid "Fan Mode"
+msgstr "Tryb Nawiewu"
+
+msgid "Swing"
+msgstr "Falowanie"
+
+msgid "Water"
+msgstr "Woda"
+
+msgid "Hot Water Mode"
+msgstr "Tryb Gorącej Wody"
+
+msgid "VAM HRV Mode"
+msgstr "Tryb VAM HRV"
+
+msgid "Vacation Preset"
+msgstr "Preset Wakacyjny"
+
+msgid "Setpoint"
+msgstr "Zadane"
+
+msgid "Auxillary Heat"
+msgstr "Grzanie Zewnętrzne"
+
+msgid "Aux Heat"
+msgstr "Grzanie Zewnętrzne"
+
+msgid "Error"
+msgstr "Błąd"
+
+msgid "Reset Filter"
+msgstr "Resetuj Filtr"

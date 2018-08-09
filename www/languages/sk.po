@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Martin Husar <dibon@dibon.sk>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-17 13:06+0000\n"
+"Last-Translator: Martin Husar <dibon@dibon.sk>\n"
+"Language-Team: Slovak (http://www.transifex.com/control4/software-interfaces/language/sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Áno"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "On"
+msgstr "On"
+
+msgid "Automatic"
+msgstr "Automatika"
+
+msgid "Heat"
+msgstr "Kúrenie"
+
+msgid "Cool"
+msgstr "Chladenie"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Fan"
+msgstr "Vent."
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Čerstvý"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 Hodiny"
+
+msgid "Until Next"
+msgstr "Do Udalosti"
+
+msgid "Permanent"
+msgstr "Natrvalo"
+
+msgid "Until"
+msgstr "Až do"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Nejlepšie"
+
+msgid "High"
+msgstr "Vysoký"
+
+msgid "Medium"
+msgstr "Stredný"
+
+msgid "Low"
+msgstr "Nízky"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Horizontálne"
+
+msgid "Vertical"
+msgstr "Vertikálne"
+
+msgid "30 degrees"
+msgstr "30 stupňov"
+
+msgid "45 degrees"
+msgstr "45 stupňov"
+
+msgid "60 degrees"
+msgstr "60 stupňov"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Eko"
+
+msgid "Hot"
+msgstr "Horúco"
+
+msgid "Auto Mode"
+msgstr "Režim Auto"
+
+msgid "Bypass"
+msgstr "Vynechať"
+
+msgid "Heat Exchange"
+msgstr "Výmena Tepla"
+
+msgid "Normal"
+msgstr "Normál"
+
+msgid "Low Fan"
+msgstr "Vent. Nízky"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Vent. nízky + čerstvý"
+
+msgid "High Fan"
+msgstr "Vent. Vysoký"
+
+msgid "High fan with Fresh Up"
+msgstr "Vent. vysoký + čerstvý"
+
+msgid "Super High Fan"
+msgstr "Vent. Super Silný"
+
+msgid "Top Fan"
+msgstr "Vent. silný"
+
+msgid "Auto Fan"
+msgstr "Vent. Auto"
+
+msgid "Fan Mode"
+msgstr "Režim Ventilácie"
+
+msgid "Swing"
+msgstr "Pohyb"
+
+msgid "Water"
+msgstr "Voda"
+
+msgid "Hot Water Mode"
+msgstr "Režim Teplej Vody"
+
+msgid "VAM HRV Mode"
+msgstr "VAM HRV Režim"
+
+msgid "Vacation Preset"
+msgstr "Predvoľba Dovolenky"
+
+msgid "Setpoint"
+msgstr "Hodnota"
+
+msgid "Auxillary Heat"
+msgstr "Pomocné Kúrenie"
+
+msgid "Aux Heat"
+msgstr "Pom. Kúrenie"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Reset Filter"
+msgstr "Reset Filtra"

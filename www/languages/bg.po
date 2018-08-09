@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Vladimir Dimitrov <sales@umen-dom.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-18 08:56+0000\n"
+"Last-Translator: Vladimir Dimitrov <sales@umen-dom.com>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/control4/software-interfaces/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Off"
+msgstr "Изключено"
+
+msgid "On"
+msgstr "Включено"
+
+msgid "Automatic"
+msgstr "Автоматично"
+
+msgid "Heat"
+msgstr "Топло"
+
+msgid "Cool"
+msgstr "Студено"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Fan"
+msgstr "Вентилатор"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Свеж"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 часа"
+
+msgid "Until Next"
+msgstr "До следващото"
+
+msgid "Permanent"
+msgstr "Постоянен"
+
+msgid "Until"
+msgstr "Докато"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Топ"
+
+msgid "High"
+msgstr "Високо"
+
+msgid "Medium"
+msgstr "Среден"
+
+msgid "Low"
+msgstr "Нисък"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Хоризонтален"
+
+msgid "Vertical"
+msgstr "Вертикален"
+
+msgid "30 degrees"
+msgstr "30 градуса"
+
+msgid "45 degrees"
+msgstr "45 градуса"
+
+msgid "60 degrees"
+msgstr "60 градуса"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Еко"
+
+msgid "Hot"
+msgstr "Топло"
+
+msgid "Auto Mode"
+msgstr "Авто режим"
+
+msgid "Bypass"
+msgstr "Заобикаляне"
+
+msgid "Heat Exchange"
+msgstr "Топлообмен"
+
+msgid "Normal"
+msgstr "Режим нормално"
+
+msgid "Low Fan"
+msgstr "Слаб вентилатор"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Слаб вентилатор с освежаване"
+
+msgid "High Fan"
+msgstr "Силен вентилатор"
+
+msgid "High fan with Fresh Up"
+msgstr "Силен вентилатор с освежаване"
+
+msgid "Super High Fan"
+msgstr "Много силен вентилатор"
+
+msgid "Top Fan"
+msgstr "Много силен вентиалтор"
+
+msgid "Auto Fan"
+msgstr "Авто вентиалтор"
+
+msgid "Fan Mode"
+msgstr "Режим вентилатор"
+
+msgid "Swing"
+msgstr "Люлеене"
+
+msgid "Water"
+msgstr "Вода"
+
+msgid "Hot Water Mode"
+msgstr "Режим топла вода"
+
+msgid "VAM HRV Mode"
+msgstr "VAM HRV режим"
+
+msgid "Vacation Preset"
+msgstr "Настройка ваканция"
+
+msgid "Setpoint"
+msgstr "Точки за настройка"
+
+msgid "Auxillary Heat"
+msgstr "Допълнителна топлина"
+
+msgid "Aux Heat"
+msgstr "Aux Топлина"
+
+msgid "Error"
+msgstr "Грешка"
+
+msgid "Reset Filter"
+msgstr "Нулирай филтъра"

@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Solodkyi Andriy <andriy.solodky@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-25 12:04+0000\n"
+"Last-Translator: Solodkyi Andriy <andriy.solodky@gmail.com>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/control4/software-interfaces/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Off"
+msgstr "Вимкнути"
+
+msgid "On"
+msgstr "Увімкнути"
+
+msgid "Automatic"
+msgstr "Автоматично"
+
+msgid "Heat"
+msgstr "Підігрів"
+
+msgid "Cool"
+msgstr "Охолодження"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Fan"
+msgstr "Вентилятор"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Приточна вентиляція"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "Теплообмін"
+
+msgid "2 Hours"
+msgstr "2 Години"
+
+msgid "Until Next"
+msgstr "До наст."
+
+msgid "Permanent"
+msgstr "Постійний"
+
+msgid "Until"
+msgstr "Доки"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Верх"
+
+msgid "High"
+msgstr "Сильно"
+
+msgid "Medium"
+msgstr "Середньо"
+
+msgid "Low"
+msgstr "Тихо"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Горизонтальна"
+
+msgid "Vertical"
+msgstr "Вертикально"
+
+msgid "30 degrees"
+msgstr "30 градусів"
+
+msgid "45 degrees"
+msgstr "45 градусів"
+
+msgid "60 degrees"
+msgstr "60 градусів"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Еко"
+
+msgid "Hot"
+msgstr "Гарячий"
+
+msgid "Auto Mode"
+msgstr "Авто режим"
+
+msgid "Bypass"
+msgstr "Обхід"
+
+msgid "Heat Exchange"
+msgstr "Теплообмін"
+
+msgid "Normal"
+msgstr "Нормальний"
+
+msgid "Low Fan"
+msgstr "Низька швидкість вентилятора"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Низька швидкість вентилятора з приточною вентиляцією"
+
+msgid "High Fan"
+msgstr "Висока швидкість вентилятора"
+
+msgid "High fan with Fresh Up"
+msgstr "Висока швидкість вентилятора з приточною вентиляцією"
+
+msgid "Super High Fan"
+msgstr "Супершвидка швидкість вентилятора"
+
+msgid "Top Fan"
+msgstr "Верхній вентилятор"
+
+msgid "Auto Fan"
+msgstr "Автоматична швидкість вентилятора"
+
+msgid "Fan Mode"
+msgstr "Режим вентилятору"
+
+msgid "Swing"
+msgstr "Свінг"
+
+msgid "Water"
+msgstr "Вода"
+
+msgid "Hot Water Mode"
+msgstr "Режим гарячої води"
+
+msgid "VAM HRV Mode"
+msgstr "Режими VAM HRV"
+
+msgid "Vacation Preset"
+msgstr "Уставка відпустка"
+
+msgid "Setpoint"
+msgstr "Уставка"
+
+msgid "Auxillary Heat"
+msgstr "Додатковий нагрів"
+
+msgid "Aux Heat"
+msgstr "Додатковий нагрів"
+
+msgid "Error"
+msgstr "Помилка"
+
+msgid "Reset Filter"
+msgstr "Скинути фільтр"

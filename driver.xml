@@ -1,0 +1,243 @@
+<devicedata>
+  <copyright>Copyright 2012 inSona Corporation.  All rights reserved.</copyright>
+  <manufacturer>Scott</manufacturer>
+  <creator>Scott</creator>
+  <created>12/08/2017 10:03 AM</created>
+  <modified>12/08/2017 10:03 AM</modified>
+  <name>485 TO IR Zone</name>
+  <model>485_TO_IR_thermostatV2</model>
+  <proxies>
+    <proxy proxybindingid="5001" name="485 IR Zone">thermostatV2</proxy>
+  </proxies>
+  <control>lua_gen</control>
+  <driver>DriverWorks</driver>
+  <composer_categories>
+    <category>HVAC</category>
+  </composer_categories>
+  <version>102</version>
+  <capabilities>
+    <hvac_modes>Off,Heat,Cool,Wind</hvac_modes>
+    <fan_modes>Auto,High,Medium,Low</fan_modes>
+    <hold_modes>Off,2 Hours,Until Next,Permanent,Hold Until</hold_modes>
+    <hvac_states>Off,Heat,Cool,Wind</hvac_states>
+    <fan_states>Off,On</fan_states>
+    <can_set_backlight>False</can_set_backlight>
+    <has_time_settings>true</has_time_settings>
+    <has_emergency_heat>False</has_emergency_heat>
+    <has_single_setpoint>True</has_single_setpoint>
+    <has_extras>true</has_extras>
+    <scheduling>true</scheduling>
+    <can_preset>true</can_preset>
+    <can_preset_schedule>true</can_preset_schedule>
+    <has_humidity>false</has_humidity>
+    <can_humidify>false</can_humidify>
+    <can_dehumidify>false</can_dehumidify>
+    <can_lock_buttons>false</can_lock_buttons>
+    <can_calibrate>false</can_calibrate>
+    <has_outdoor_temperature>false</has_outdoor_temperature>
+    <can_change_scale>true</can_change_scale>
+    <can_heat>true</can_heat>
+    <can_cool>true</can_cool>
+    <setpoint_single_max_c>28</setpoint_single_max_c>
+    <setpoint_single_min_c>20</setpoint_single_min_c>
+    <preset_fields>
+      <field id="single_setpoint_c" type="number" label="Setpoint" min="4" max="32" res="1" />
+      <field id="hvac_mode" type="list" label="Hvac Mode">
+        <list>
+          <item text="Off" value="Off" />
+          <item text="Heat" value="Heat" />
+          <item text="Cool" value="Cool" />
+          <item text="Wind" value="Wind" />
+        </list>
+      </field>
+      <field id="fan_mode" type="list" label="Fan Mode">
+        <list>
+          <item text="Auto" value="Auto" />
+          <item text="High" value="High" />
+          <item text="Medium" value="Medium" />
+          <item text="Low" value="Low" />
+        </list>
+      </field>
+    </preset_fields>
+    <navigator_display_option proxybindingid="5001">
+      <translation_url>controller://driver/Lafei_thermostat/languages</translation_url>
+    </navigator_display_option>
+    <setpoint_heat_max>30</setpoint_heat_max>
+    <setpoint_heat_min>25</setpoint_heat_min>
+  </capabilities>
+  <connections>
+    <connection>
+      <id>1</id>
+      <type>2</type>
+      <facing>6</facing>
+      <connectionname>LAFEI Service Interface</connectionname>
+      <consumer>False</consumer>
+      <linelevel>False</linelevel>
+      <audiosource>False</audiosource>
+      <videosource>False</videosource>
+      <idautobind>43122</idautobind>
+      <hidden>False</hidden>
+      <classes>
+        <class>
+          <autobind>True</autobind>
+          <classname>LAFEI_Service_Interface</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>5001</id>
+      <facing>6</facing>
+      <connectionname>THERMOSTAT</connectionname>
+      <type>2</type>
+      <consumer>False</consumer>
+      <audiosource>False</audiosource>
+      <videosource>False</videosource>
+      <linelevel>False</linelevel>
+      <classes>
+        <class>
+          <classname>THERMOSTAT</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>7000</id>
+      <facing>6</facing>
+      <connectionname>Room Selection</connectionname>
+      <type>7</type>
+      <consumer>False</consumer>
+      <audiosource>False</audiosource>
+      <videosource>False</videosource>
+      <linelevel>False</linelevel>
+      <classes>
+        <class>
+          <autobind>False</autobind>
+          <classname>TEMPERATURE</classname>
+        </class>
+        <class>
+          <autobind>False</autobind>
+          <classname>TEMPERATURE_CONTROL</classname>
+        </class>
+      </classes>
+    </connection>
+  </connections>
+  <config>
+    <properties>
+      <property>
+        <name>Debug Mode</name>
+        <type>LIST</type>
+        <readonly>false</readonly>
+        <default>false</default>
+        <items>
+          <item>true</item>
+          <item>false</item>
+        </items>
+        <password>false</password>
+      </property>
+      <property>
+        <name>SCALE</name>
+        <type>STRING</type>
+        <default>C</default>
+        <readonly>true</readonly>
+      </property>
+      <property>
+        <name>Driver Version</name>
+        <type>STRING</type>
+        <default />
+        <readonly>true</readonly>
+      </property>
+      <property>
+        <name>Cool 20</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Cool 21</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Cool 22</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Cool 23</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Cool 24</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Cool 25</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Cool 26</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Cool 27</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Cool 28</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Heat 30</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Heat 29</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Heat 28</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Heat 27</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Heat 26</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>Heat 25</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+      <property>
+        <name>OFF</name>
+        <type>STRING</type>
+        <default></default>
+      </property>
+    </properties>
+    <actions>
+      <action>
+        <name>Sync Configuration with other zone</name>
+        <command>SyncCfg</command>
+      </action>
+    </actions>
+    <commands></commands>
+    <script file="driver.lua" encryption="2" />
+    <documentation file="documentation.rtf" />
+  </config>
+  <navigator_categories>
+    <category>Comfort</category>
+  </navigator_categories>
+  <small>devices_sm\HVAC_16.GIF</small>
+</devicedata>

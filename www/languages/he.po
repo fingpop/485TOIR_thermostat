@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Arie Rotman <arier@sge.co.il>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-24 15:54+0000\n"
+"Last-Translator: Arie Rotman <arier@sge.co.il>\n"
+"Language-Team: Hebrew (http://www.transifex.com/control4/software-interfaces/language/he/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: he\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "כן"
+
+msgid "No"
+msgstr "לא"
+
+msgid "Off"
+msgstr "כבוי"
+
+msgid "On"
+msgstr "דלוק"
+
+msgid "Automatic"
+msgstr "אוטומטי"
+
+msgid "Heat"
+msgstr "חימום"
+
+msgid "Cool"
+msgstr "קירור"
+
+msgid "Auto"
+msgstr "אוטו'"
+
+msgid "Fan"
+msgstr "מאוורר"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "שיחלוף"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "שעתיים"
+
+msgid "Until Next"
+msgstr "עד הבא"
+
+msgid "Permanent"
+msgstr "קבוע"
+
+msgid "Until"
+msgstr "עד"
+
+# These are fan speeds
+msgid "Top"
+msgstr "פופולארי"
+
+msgid "High"
+msgstr "גבוה"
+
+msgid "Medium"
+msgstr "בינוני"
+
+msgid "Low"
+msgstr "נמוך"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "אופקי"
+
+msgid "Vertical"
+msgstr "אנכי"
+
+msgid "30 degrees"
+msgstr "30 מעלות"
+
+msgid "45 degrees"
+msgstr "45 מעלות"
+
+msgid "60 degrees"
+msgstr "60 מעלות"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "חסכוני"
+
+msgid "Hot"
+msgstr "חימום"
+
+msgid "Auto Mode"
+msgstr "מצב אוטומטי"
+
+msgid "Bypass"
+msgstr "מעקף"
+
+msgid "Heat Exchange"
+msgstr "מחליף חום"
+
+msgid "Normal"
+msgstr "נורמלי"
+
+msgid "Low Fan"
+msgstr "איוורור נמוך"
+
+msgid "Low Fan with Fresh Up"
+msgstr "איוורור נמוך עם שחלוף"
+
+msgid "High Fan"
+msgstr "איוורור גבוה"
+
+msgid "High fan with Fresh Up"
+msgstr "איוורור גבוה עם שחלוף"
+
+msgid "Super High Fan"
+msgstr "איוורור גבוה מאד"
+
+msgid "Top Fan"
+msgstr "איוורור מקסימלי"
+
+msgid "Auto Fan"
+msgstr "איוורור אוטומטי"
+
+msgid "Fan Mode"
+msgstr "מצב מאוורר"
+
+msgid "Swing"
+msgstr "נידנוד"
+
+msgid "Water"
+msgstr "מים"
+
+msgid "Hot Water Mode"
+msgstr "מצב מים חמים"
+
+msgid "VAM HRV Mode"
+msgstr "VAM HRV Mode"
+
+msgid "Vacation Preset"
+msgstr "הגדרות חופשה"
+
+msgid "Setpoint"
+msgstr "טמפרטורה"
+
+msgid "Auxillary Heat"
+msgstr "חימום משני"
+
+msgid "Aux Heat"
+msgstr "חימום משני"
+
+msgid "Error"
+msgstr "שגיאה"
+
+msgid "Reset Filter"
+msgstr "איפוס פילטר"

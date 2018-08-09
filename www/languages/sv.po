@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Göran Ekström <goran@affixum.se>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-18 09:43+0000\n"
+"Last-Translator: Göran Ekström <goran@affixum.se>\n"
+"Language-Team: Swedish (Sweden) (http://www.transifex.com/control4/software-interfaces/language/sv_SE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "Off"
+msgstr "Av"
+
+msgid "On"
+msgstr "På"
+
+msgid "Automatic"
+msgstr "Automatiskt"
+
+msgid "Heat"
+msgstr "Värme"
+
+msgid "Cool"
+msgstr "Kyla"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Fan"
+msgstr "Fläkt"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Frisk"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 timmar"
+
+msgid "Until Next"
+msgstr "Tills nästa"
+
+msgid "Permanent"
+msgstr "Permanent"
+
+msgid "Until"
+msgstr "Tills"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Huvudmeny"
+
+msgid "High"
+msgstr "Hög"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Low"
+msgstr "Låg"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Horisontell"
+
+msgid "Vertical"
+msgstr "Vertikal"
+
+msgid "30 degrees"
+msgstr "30 grader"
+
+msgid "45 degrees"
+msgstr "45 grader"
+
+msgid "60 degrees"
+msgstr "60 grader"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Eco"
+
+msgid "Hot"
+msgstr "Varm"
+
+msgid "Auto Mode"
+msgstr "Automatiskt läge"
+
+msgid "Bypass"
+msgstr "Förbikoppla"
+
+msgid "Heat Exchange"
+msgstr "Värmeåtervinning"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Low Fan"
+msgstr "Låg fläkt"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Låg fläkt med friskluft"
+
+msgid "High Fan"
+msgstr "Hög fläkt"
+
+msgid "High fan with Fresh Up"
+msgstr "Hög fläkt med friskluft"
+
+msgid "Super High Fan"
+msgstr "Extra hög fläkt"
+
+msgid "Top Fan"
+msgstr "Takfläkt"
+
+msgid "Auto Fan"
+msgstr "Auto fläkt"
+
+msgid "Fan Mode"
+msgstr "Fläktläge"
+
+msgid "Swing"
+msgstr "Pendlande"
+
+msgid "Water"
+msgstr "Vatten"
+
+msgid "Hot Water Mode"
+msgstr "Varmvattenläge"
+
+msgid "VAM HRV Mode"
+msgstr "VAM HRV läge"
+
+msgid "Vacation Preset"
+msgstr "Förinställningar för Semester"
+
+msgid "Setpoint"
+msgstr "Börvärde"
+
+msgid "Auxillary Heat"
+msgstr "Extravärme"
+
+msgid "Aux Heat"
+msgstr "Extravärme"
+
+msgid "Error"
+msgstr "Fel"
+
+msgid "Reset Filter"
+msgstr "Återställ filter"

@@ -1,0 +1,176 @@
+﻿# Translators:
+# Translators:
+# Multiling <dan.videki@multiling.com>, 2015
+# Wayne Hsu <whsu@control4.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-19 17:03+0000\n"
+"Last-Translator: Multiling <dan.videki@multiling.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/control4/software-interfaces/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Off"
+msgstr "关"
+
+msgid "On"
+msgstr "开"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "Heat"
+msgstr "热风"
+
+msgid "Cool"
+msgstr "冷风"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "Fan"
+msgstr "风扇"
+
+msgid "Wind"
+msgstr "通风"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "新风"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 小时"
+
+msgid "Until Next"
+msgstr "直至下一个"
+
+msgid "Permanent"
+msgstr "永久"
+
+msgid "Until"
+msgstr "直至"
+
+# These are fan speeds
+msgid "Top"
+msgstr "顶部"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "High"
+msgstr "高"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "Low"
+msgstr "低"
+
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "水平"
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid "30 degrees"
+msgstr "30度"
+
+msgid "45 degrees"
+msgstr "45度"
+
+msgid "60 degrees"
+msgstr "60度"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "节能"
+
+msgid "Hot"
+msgstr "热"
+
+msgid "Auto Mode"
+msgstr "自动模式"
+
+msgid "Bypass"
+msgstr "绕过"
+
+msgid "Heat Exchange"
+msgstr "热交换"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Low Fan"
+msgstr "低风量"
+
+msgid "Low Fan with Fresh Up"
+msgstr "低风量并开启新风"
+
+msgid "High Fan"
+msgstr "高风量"
+
+msgid "High fan with Fresh Up"
+msgstr "高风量并开启新风"
+
+msgid "Super High Fan"
+msgstr "最大风量"
+
+msgid "Top Fan"
+msgstr "顶部风扇"
+
+msgid "Auto Fan"
+msgstr "自动风量"
+
+msgid "Hvac Mode"
+msgstr "运行模式"
+
+msgid "Fan Mode"
+msgstr "风扇模式"
+
+msgid "Swing"
+msgstr "摆动"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Hot Water Mode"
+msgstr "热水模式"
+
+msgid "VAM HRV Mode"
+msgstr "VAM HRV 模式"
+
+msgid "Vacation Preset"
+msgstr "假期预设"
+
+msgid "Setpoint"
+msgstr "设定温度"
+
+msgid "Auxillary Heat"
+msgstr "辅助加热"
+
+msgid "Aux Heat"
+msgstr "辅助加热"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Reset Filter"
+msgstr "重置滤网"

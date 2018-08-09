@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Timo Piironen <timo.piironen@eldistribution.fi>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-25 13:20+0000\n"
+"Last-Translator: Timo Piironen <timo.piironen@eldistribution.fi>\n"
+"Language-Team: Finnish (http://www.transifex.com/control4/software-interfaces/language/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Kyllä"
+
+msgid "No"
+msgstr "Ei"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "On"
+msgstr "Päällä"
+
+msgid "Automatic"
+msgstr "Automaattinen"
+
+msgid "Heat"
+msgstr "Lämmitä"
+
+msgid "Cool"
+msgstr "Jäähdytä"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Fan"
+msgstr "Tuuletin"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Raikastus"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 tuntia"
+
+msgid "Until Next"
+msgstr "Ennen seuraavaa"
+
+msgid "Permanent"
+msgstr "Pysyvä"
+
+msgid "Until"
+msgstr "Kunnes"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Suosituimmat"
+
+msgid "High"
+msgstr "Korkea"
+
+msgid "Medium"
+msgstr "Keski"
+
+msgid "Low"
+msgstr "Alhainen"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Vaakataso"
+
+msgid "Vertical"
+msgstr "Pystytaso"
+
+msgid "30 degrees"
+msgstr "30 astetta"
+
+msgid "45 degrees"
+msgstr "45 astetta"
+
+msgid "60 degrees"
+msgstr "60 astetta"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Eko"
+
+msgid "Hot"
+msgstr "Kuuma"
+
+msgid "Auto Mode"
+msgstr "Automaattinen"
+
+msgid "Bypass"
+msgstr "Ohita"
+
+msgid "Heat Exchange"
+msgstr "Lämmönvaihto"
+
+msgid "Normal"
+msgstr "Normaali"
+
+msgid "Low Fan"
+msgstr "Matala tuuletin"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Matala tuuletin, raikastuksella"
+
+msgid "High Fan"
+msgstr "Korkea tuuletin"
+
+msgid "High fan with Fresh Up"
+msgstr "Korkea tuuletin, raikastuksella"
+
+msgid "Super High Fan"
+msgstr "Erittäin korkea tuuletin"
+
+msgid "Top Fan"
+msgstr "Täysi tuuletin"
+
+msgid "Auto Fan"
+msgstr "Auto tuuletin"
+
+msgid "Fan Mode"
+msgstr "Tuulettimen tila"
+
+msgid "Swing"
+msgstr "Swing"
+
+msgid "Water"
+msgstr "Vesi"
+
+msgid "Hot Water Mode"
+msgstr "Kuumavesi tila"
+
+msgid "VAM HRV Mode"
+msgstr "VAM HRV tila"
+
+msgid "Vacation Preset"
+msgstr "Loma-asetus"
+
+msgid "Setpoint"
+msgstr "Asetusarvo"
+
+msgid "Auxillary Heat"
+msgstr "Lisälämmitys"
+
+msgid "Aux Heat"
+msgstr "Lisälämmitys"
+
+msgid "Error"
+msgstr "Virhe"
+
+msgid "Reset Filter"
+msgstr "Nollaa suodatin"

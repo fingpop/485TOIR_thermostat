@@ -1,0 +1,166 @@
+# Translators:
+# Translators:
+# DUBAL <fdubal@genesis-technologies.fr>, 2015
+# Multiling <dan.videki@multiling.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-28 09:17+0000\n"
+"Last-Translator: DUBAL <fdubal@genesis-technologies.fr>\n"
+"Language-Team: French (http://www.transifex.com/control4/software-interfaces/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Off"
+msgstr "Éteint"
+
+msgid "On"
+msgstr "Allumé"
+
+msgid "Automatic"
+msgstr "Automatique"
+
+msgid "Heat"
+msgstr "Chauff."
+
+msgid "Cool"
+msgstr "Clim."
+
+msgid "Auto"
+msgstr "Automatique"
+
+msgid "Fan"
+msgstr "Ventilateur"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Rafraîch."
+
+# Heat Exchange
+msgid "HExc"
+msgstr "Éch.chaleur"
+
+msgid "2 Hours"
+msgstr "2 Heures"
+
+msgid "Until Next"
+msgstr "Jusqu'au suivant"
+
+msgid "Permanent"
+msgstr "Permanent"
+
+msgid "Until"
+msgstr "Jusqu'à"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Sommet"
+
+msgid "High"
+msgstr "Haut"
+
+msgid "Medium"
+msgstr "Moyen"
+
+msgid "Low"
+msgstr "Bas"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "30 degrees"
+msgstr "30 degrés"
+
+msgid "45 degrees"
+msgstr "45 degrés"
+
+msgid "60 degrees"
+msgstr "60 degrés"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Éco"
+
+msgid "Hot"
+msgstr "Chaud"
+
+msgid "Auto Mode"
+msgstr "Mode Auto"
+
+msgid "Bypass"
+msgstr "Contourner"
+
+msgid "Heat Exchange"
+msgstr "Échange de chaleur"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Low Fan"
+msgstr "Ventilation lente"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Ventilation lente avec raffraîchissement."
+
+msgid "High Fan"
+msgstr "Ventilation rapide"
+
+msgid "High fan with Fresh Up"
+msgstr "Ventilation rapide avec rafraîchissement"
+
+msgid "Super High Fan"
+msgstr "Ventilation très rapide"
+
+msgid "Top Fan"
+msgstr "Ventilation haute"
+
+msgid "Auto Fan"
+msgstr "Ventilation auto"
+
+msgid "Fan Mode"
+msgstr "Mode ventilateur"
+
+msgid "Swing"
+msgstr "Bascule"
+
+msgid "Water"
+msgstr "Eau"
+
+msgid "Hot Water Mode"
+msgstr "Mode Eau chaude"
+
+msgid "VAM HRV Mode"
+msgstr "Mode HRV VAM"
+
+msgid "Vacation Preset"
+msgstr "Préréglage Vacances"
+
+msgid "Setpoint"
+msgstr "Point de consigne"
+
+msgid "Auxillary Heat"
+msgstr "Chauff. auxiliaire"
+
+msgid "Aux Heat"
+msgstr "Chauff. auxil."
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Reset Filter"
+msgstr "Réinitialiser le filtre"

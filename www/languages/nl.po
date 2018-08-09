@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# jasperfroyen <jasper@m-pro.be>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-12 11:28+0000\n"
+"Last-Translator: jasperfroyen <jasper@m-pro.be>\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/control4/software-interfaces/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "Off"
+msgstr "Uit"
+
+msgid "On"
+msgstr "Aan"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Heat"
+msgstr "Verwarm"
+
+msgid "Cool"
+msgstr "Koelen"
+
+msgid "Auto"
+msgstr "Automatisch"
+
+msgid "Fan"
+msgstr "Ventilator"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Vers"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 Uur"
+
+msgid "Until Next"
+msgstr "Tot Volgend"
+
+msgid "Permanent"
+msgstr "Permanent"
+
+msgid "Until"
+msgstr "Totdat"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Top"
+
+msgid "High"
+msgstr "Hoog"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Low"
+msgstr "Laag"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+msgid "Vertical"
+msgstr "Verticaal"
+
+msgid "30 degrees"
+msgstr "30 graden"
+
+msgid "45 degrees"
+msgstr "45 graden"
+
+msgid "60 degrees"
+msgstr "60 graden"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Eco"
+
+msgid "Hot"
+msgstr "Heet"
+
+msgid "Auto Mode"
+msgstr "Auto Mode"
+
+msgid "Bypass"
+msgstr "Bypass"
+
+msgid "Heat Exchange"
+msgstr "Warmte uitwisseling"
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "Low Fan"
+msgstr "Ventilator laag"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Ventilator laag met vers aan"
+
+msgid "High Fan"
+msgstr "Ventilator hoog"
+
+msgid "High fan with Fresh Up"
+msgstr "Ventilator hoog met vers aan"
+
+msgid "Super High Fan"
+msgstr "Ventilator super hoog"
+
+msgid "Top Fan"
+msgstr "Ventilator top"
+
+msgid "Auto Fan"
+msgstr "Ventilator auto"
+
+msgid "Fan Mode"
+msgstr "Ventilator modus"
+
+msgid "Swing"
+msgstr "Swing"
+
+msgid "Water"
+msgstr "Water"
+
+msgid "Hot Water Mode"
+msgstr "Heet water modus"
+
+msgid "VAM HRV Mode"
+msgstr "VAM HRV Mode"
+
+msgid "Vacation Preset"
+msgstr "Vakantie voorinstelling"
+
+msgid "Setpoint"
+msgstr "Instelpunt"
+
+msgid "Auxillary Heat"
+msgstr "Hulp warmte"
+
+msgid "Aux Heat"
+msgstr "Hulp warm"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "Reset Filter"
+msgstr "Reset Filter"

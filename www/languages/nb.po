@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Vegard Sunde <vegard@ncms.no>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-25 23:08+0000\n"
+"Last-Translator: Vegard Sunde <vegard@ncms.no>\n"
+"Language-Team: Norwegian Bokmål (Norway) (http://www.transifex.com/control4/software-interfaces/language/nb_NO/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nb_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nei"
+
+msgid "Off"
+msgstr "AV"
+
+msgid "On"
+msgstr "På"
+
+msgid "Automatic"
+msgstr "Automatisk"
+
+msgid "Heat"
+msgstr "Varme"
+
+msgid "Cool"
+msgstr "Kjøle"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Fan"
+msgstr "Vifte"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Frisk"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 timer"
+
+msgid "Until Next"
+msgstr "Inntil neste"
+
+msgid "Permanent"
+msgstr "Permanent"
+
+msgid "Until"
+msgstr "Inntil"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Topp"
+
+msgid "High"
+msgstr "Høy"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Low"
+msgstr "Lav"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Horisontal"
+
+msgid "Vertical"
+msgstr "Vertikal"
+
+msgid "30 degrees"
+msgstr "30 grader"
+
+msgid "45 degrees"
+msgstr "45 grader"
+
+msgid "60 degrees"
+msgstr "60 grader"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Eco"
+
+msgid "Hot"
+msgstr "Varm"
+
+msgid "Auto Mode"
+msgstr "Auto-modus"
+
+msgid "Bypass"
+msgstr "Forbikoble"
+
+msgid "Heat Exchange"
+msgstr "Varmeveksling"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Low Fan"
+msgstr "Vifte lav"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Vifte lav med fresh up"
+
+msgid "High Fan"
+msgstr "Vifte høy"
+
+msgid "High fan with Fresh Up"
+msgstr "Vifte høy med fresh up"
+
+msgid "Super High Fan"
+msgstr "Vifte ekstra høy"
+
+msgid "Top Fan"
+msgstr "Vifte topp"
+
+msgid "Auto Fan"
+msgstr "Vifte auto"
+
+msgid "Fan Mode"
+msgstr "Viftemodus"
+
+msgid "Swing"
+msgstr "Swing"
+
+msgid "Water"
+msgstr "Vann"
+
+msgid "Hot Water Mode"
+msgstr "Varmtvann modus"
+
+msgid "VAM HRV Mode"
+msgstr "VAM HRV Modus"
+
+msgid "Vacation Preset"
+msgstr "Forhåndsinnstilling Ferie"
+
+msgid "Setpoint"
+msgstr "Settpunkt"
+
+msgid "Auxillary Heat"
+msgstr "Aux varme"
+
+msgid "Aux Heat"
+msgstr "Aux varme"
+
+msgid "Error"
+msgstr "Feil"
+
+msgid "Reset Filter"
+msgstr "Nullstill filter"

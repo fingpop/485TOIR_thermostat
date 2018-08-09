@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Sherry Yang <sherry@control4.com.tw>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-20 03:33+0000\n"
+"Last-Translator: Sherry Yang <sherry@control4.com.tw>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/control4/software-interfaces/language/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Off"
+msgstr "關閉"
+
+msgid "On"
+msgstr "開"
+
+msgid "Automatic"
+msgstr "自動"
+
+msgid "Heat"
+msgstr "暖氣"
+
+msgid "Cool"
+msgstr "冷氣"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Fan"
+msgstr "風扇"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "換氣"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "熱交換模式"
+
+msgid "2 Hours"
+msgstr "2小時"
+
+msgid "Until Next"
+msgstr "直到下個"
+
+msgid "Permanent"
+msgstr "永久"
+
+msgid "Until"
+msgstr "直到"
+
+# These are fan speeds
+msgid "Top"
+msgstr "最高"
+
+msgid "High"
+msgstr "高"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "Low"
+msgstr "低"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "上下擺動"
+
+msgid "Vertical"
+msgstr "左右擺動"
+
+msgid "30 degrees"
+msgstr "30°"
+
+msgid "45 degrees"
+msgstr "45°"
+
+msgid "60 degrees"
+msgstr "60°"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "節能"
+
+msgid "Hot"
+msgstr "熱"
+
+msgid "Auto Mode"
+msgstr "自動模式"
+
+msgid "Bypass"
+msgstr "省略"
+
+msgid "Heat Exchange"
+msgstr "熱交換"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Low Fan"
+msgstr "低速風"
+
+msgid "Low Fan with Fresh Up"
+msgstr "低速風與換氣"
+
+msgid "High Fan"
+msgstr "中速風"
+
+msgid "High fan with Fresh Up"
+msgstr "中速風與換氣"
+
+msgid "Super High Fan"
+msgstr "高速風"
+
+msgid "Top Fan"
+msgstr "最高速風"
+
+msgid "Auto Fan"
+msgstr "風速自動"
+
+msgid "Fan Mode"
+msgstr "風扇模式"
+
+msgid "Swing"
+msgstr "擺動"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Hot Water Mode"
+msgstr "熱水模式"
+
+msgid "VAM HRV Mode"
+msgstr "VAM全熱交換器模式"
+
+msgid "Vacation Preset"
+msgstr "假期預先設定"
+
+msgid "Setpoint"
+msgstr "設定值"
+
+msgid "Auxillary Heat"
+msgstr "輔助加熱"
+
+msgid "Aux Heat"
+msgstr "輔助加熱"
+
+msgid "Error"
+msgstr "錯誤"
+
+msgid "Reset Filter"
+msgstr "重置濾網"

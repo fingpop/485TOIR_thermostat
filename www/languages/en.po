@@ -1,0 +1,164 @@
+# Translators:
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-06 16:49+0000\n"
+"Last-Translator: bb_intl <bbaldwin@control4.com>\n"
+"Language-Team: English (http://www.transifex.com/control4/software-interfaces/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "On"
+msgstr "On"
+
+msgid "Automatic"
+msgstr "Automatic"
+
+msgid "Heat"
+msgstr "Heat"
+
+msgid "Cool"
+msgstr "Cool"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Fan"
+msgstr "Fan"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Fresh"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 Hours"
+
+msgid "Until Next"
+msgstr "Until Next"
+
+msgid "Permanent"
+msgstr "Permanent"
+
+msgid "Until"
+msgstr "Until"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Top"
+
+msgid "High"
+msgstr "High"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Low"
+msgstr "Low"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "30 degrees"
+msgstr "30 degrees"
+
+msgid "45 degrees"
+msgstr "45 degrees"
+
+msgid "60 degrees"
+msgstr "60 degrees"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Eco"
+
+msgid "Hot"
+msgstr "Hot"
+
+msgid "Auto Mode"
+msgstr "Auto Mode"
+
+msgid "Bypass"
+msgstr "Bypass"
+
+msgid "Heat Exchange"
+msgstr "Heat Exchange"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Low Fan"
+msgstr "Low Fan"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Low Fan with Fresh Up"
+
+msgid "High Fan"
+msgstr "High Fan"
+
+msgid "High fan with Fresh Up"
+msgstr "High fan with Fresh Up"
+
+msgid "Super High Fan"
+msgstr "Super High Fan"
+
+msgid "Top Fan"
+msgstr "Top Fan"
+
+msgid "Auto Fan"
+msgstr "Auto Fan"
+
+msgid "Fan Mode"
+msgstr "Fan Mode"
+
+msgid "Swing"
+msgstr "Swing"
+
+msgid "Water"
+msgstr "Water"
+
+msgid "Hot Water Mode"
+msgstr "Hot Water Mode"
+
+msgid "VAM HRV Mode"
+msgstr "VAM HRV Mode"
+
+msgid "Vacation Preset"
+msgstr "Vacation Preset"
+
+msgid "Setpoint"
+msgstr "Setpoint"
+
+msgid "Auxillary Heat"
+msgstr "Auxillary Heat"
+
+msgid "Aux Heat"
+msgstr "Aux Heat"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Reset Filter"
+msgstr "Reset Filter"

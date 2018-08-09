@@ -1,0 +1,165 @@
+# Translators:
+# Translators:
+# Boas Hochstrasser <bhochstrasser@genesis-technologies.ch>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Software Interfaces\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-14 08:31+0000\n"
+"Last-Translator: Boas Hochstrasser <bhochstrasser@genesis-technologies.ch>\n"
+"Language-Team: German (Switzerland) (http://www.transifex.com/control4/software-interfaces/language/de_CH/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_CH\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "Off"
+msgstr "Aus"
+
+msgid "On"
+msgstr "Ein"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Heat"
+msgstr "Heizen"
+
+msgid "Cool"
+msgstr "Kühlen"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Fan"
+msgstr "Lüfter"
+
+# Fresh Air
+msgid "Fresh"
+msgstr "Auffrischen"
+
+# Heat Exchange
+msgid "HExc"
+msgstr "HExc"
+
+msgid "2 Hours"
+msgstr "2 Stunden"
+
+msgid "Until Next"
+msgstr "Bis nächstes Ereignis"
+
+msgid "Permanent"
+msgstr "Permanent"
+
+msgid "Until"
+msgstr "Bis"
+
+# These are fan speeds
+msgid "Top"
+msgstr "Top"
+
+msgid "High"
+msgstr "Hoch"
+
+msgid "Medium"
+msgstr "Mittel"
+
+msgid "Low"
+msgstr "Niedrig"
+
+# These are vane positions
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Vertical"
+msgstr "Vertikal"
+
+msgid "30 degrees"
+msgstr "30 Grad"
+
+msgid "45 degrees"
+msgstr "45 Grad"
+
+msgid "60 degrees"
+msgstr "60 Grad"
+
+# Eco - economical mode
+msgid "Eco"
+msgstr "Eco"
+
+msgid "Hot"
+msgstr "Heiss"
+
+msgid "Auto Mode"
+msgstr "Auto Modus"
+
+msgid "Bypass"
+msgstr "Überbrücken"
+
+msgid "Heat Exchange"
+msgstr "Wärmetauschen"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Low Fan"
+msgstr "Lüfter niedrig"
+
+msgid "Low Fan with Fresh Up"
+msgstr "Lüfter niedrig und auffrischen"
+
+msgid "High Fan"
+msgstr "Lüfter hoch"
+
+msgid "High fan with Fresh Up"
+msgstr "Lüfter hoch und auffrischen"
+
+msgid "Super High Fan"
+msgstr "Lüfter super hoch"
+
+msgid "Top Fan"
+msgstr "Lüfter oben"
+
+msgid "Auto Fan"
+msgstr "Lüfterstufe Auto"
+
+msgid "Fan Mode"
+msgstr "Lüfter Modus"
+
+msgid "Swing"
+msgstr "Schwingen"
+
+msgid "Water"
+msgstr "Wasser"
+
+msgid "Hot Water Mode"
+msgstr "Heisswassermodus"
+
+msgid "VAM HRV Mode"
+msgstr "VAM HRV Modus"
+
+msgid "Vacation Preset"
+msgstr "Ferien Preset"
+
+msgid "Setpoint"
+msgstr "Sollwert"
+
+msgid "Auxillary Heat"
+msgstr "Externe Heizung"
+
+msgid "Aux Heat"
+msgstr "Externe Heizung"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "Reset Filter"
+msgstr "Filter zurücksetzen"
